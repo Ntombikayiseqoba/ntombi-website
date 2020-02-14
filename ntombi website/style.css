@@ -1,0 +1,68 @@
+body{
+    background-image: url('beach.jfif');
+    background-size: cover;
+    background-position: center;
+}
+
+.container{
+    text-align: center;
+    color: white;
+}
+
+p{
+    color:white;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.nav {
+    margin: 50px 0 0 50px;
+}
+
+.nav a{
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 5px 10px;
+    margin-right: 30px;
+}
+
+.nav a:hover{
+    color: rgba(20, 57, 100);
+    background-color: white;
+}
+
+.name{
+    text-align: center;
+    font-size: 9rem;
+    padding-top: 300px;
+    padding-left: 200px;
+    color: rgb(36, 32, 33);
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    text-align: center;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+}
+.icon img{
+    width: 40px;
+    padding: 0 10px;
+}
+
+
+
+
+
+
